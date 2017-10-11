@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "js",
+        "types": []
+    },
+    "include": [
+        "ts/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
